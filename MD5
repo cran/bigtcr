@@ -1,0 +1,16 @@
+a682fcedf7e8e826c0e21c01bc572a08 *DESCRIPTION
+100829a3265fbedc9f12267366094785 *NAMESPACE
+adb9ce885e0ce05c45fb062cc9f6cf9e *R/bigtcr_func.R
+cc1f6e9c24059bc6c74b20a587b18748 *R/bigtcr_package.R
+54d1e1a04550062efc26a7332eaf358a *R/bigtcr_tools.R
+f5f32df79df5ebf7a4942f3a056e46b0 *data/pancancer.rda
+e5b20be21ca30010df0f8d1e80b79eed *man/bigtcr-package.Rd
+c7051ba89d09dbea27d7fb2a41a7cc4f *man/get.ccif.Rd
+b4813dc5391b7f142fae92896e7aef74 *man/get.gap.ccif.Rd
+773b714b08c704767b2b075ae79e55ff *man/get.gap.kt.Rd
+2852117c26bcb55588839fa7ce197b6b *man/get.gap.pval.Rd
+5d21c2f4fa5657d7cde9480a3d4feafd *man/get.kendalltau.Rd
+16cb64b63058e02ace0e07df3d40cdc0 *man/get.pval.Rd
+0f0247d4bb2d5a3861efd7324829908d *man/pancancer.Rd
+8ce9b931888d4b07687e8ab672dc1b05 *src/Makevars
+a1c565b7f7233857cb09e345241eddab *src/bigap.c
