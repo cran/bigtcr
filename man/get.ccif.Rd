@@ -14,7 +14,7 @@ get.ccif(obs.y, event, tau = Inf)
 \item{tau}{Conditioning time \eqn{\tau} under which the CCIF is defined}
 }
 \value{
-A matrix with \eqn{J} columns. Columns 1 to \eqn{J} correspond to
+A matrix with class ccif that has \eqn{J} columns. Columns 1 to \eqn{J} correspond to
 \eqn{G_1(t)} to \eqn{G_J(t)}. Each row represents a distinct observed time
 point \eqn{t} and the row name contains the value of \eqn{t}.
 }

@@ -102,18 +102,18 @@ NULL
 
 #' Example Pancreatic Cancer Dataset
 #'
-#' Example Data used in \pkg{bigtcr} examples and vignettes.
+#' Simulated data used in \pkg{bigtcr} examples.
 #'
-#' Data from 209 consecutive patients who had surgical resection of pancreatic
+#' Data simulated based on the patients who had surgical resection of pancreatic
 #' adenocarcinomas and had postoperative follow-up at the Johns Hopkins Hospital
 #' between 1998 and 2007.
 #'
 #' @name pancancer
 #' @aliases pancancer
 #'
-#' @format A dataframe with 6 variables:
+#' @format A dataframe with 3 variables:
 #' \describe{
-#'   \item{obs.y}{Observed time to failure events or censoring}
+#'   \item{obs.y}{Observed time to failure events or censoring in months}
 #'   \item{min.type}{Type of failure events
 #' \describe{
 #' \item{0}{Censored}
@@ -123,7 +123,6 @@ NULL
 #' }
 #' }
 #' \item{v}{Time to recurrence. NA if no recurrence observed}
-#' \item{w}{Time from recurrence to death. NA if censored or no recurrence}
 #' }
 #'
 #'

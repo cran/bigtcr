@@ -2,7 +2,7 @@
 % Please edit documentation in R/bigtcr_func.R
 \name{get.gap.kt}
 \alias{get.gap.kt}
-\title{Cause-Specific Kendall<U+2019>s tau Estimation}
+\title{Cause-Specific Kendall's tau Estimation}
 \usage{
 get.gap.kt(obs.y, event, v, tau = Inf, nbs = 0)
 }
@@ -23,7 +23,7 @@ A list of the estimation and variances of modified casue-specific Kendall's
 tau
 }
 \description{
-Estimate the modified cause-specific Kendall<U+2019>s tau for the evaluation of
+Estimate the modified cause-specific Kendall's tau for the evaluation of
 association for bivariate gap time with competing risks. See \code{\link{bigtcr-package}}.
 }
 \examples{

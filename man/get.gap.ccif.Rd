@@ -16,10 +16,10 @@ get.gap.ccif(obs.y, event, v, tau = Inf)
 \item{tau}{Conditioning time \eqn{\tau} under which the CCIF is defined}
 }
 \value{
-A matrix with \eqn{J+2} columns. Column 1 and 2 are \eqn{(v,w)}. The rest
-columns correspond to \eqn{H_1(v,w)} to \eqn{H_J(v,w)}. Each row represents
-a distinct observed time point and the row name contains the value of this
-time point.
+A matrix with class \code{gap.ccif} that has \eqn{J+2} columns. Column 1 and
+2 are \eqn{(v,w)}. The rest columns correspond to \eqn{H_1(v,w)} to
+\eqn{H_J(v,w)}. Each row represents a distinct observed time point and the
+row name contains the value of this time point.
 }
 \description{
 Estimate the conditional bivariate cumulative incidence function. See

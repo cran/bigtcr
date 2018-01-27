@@ -2,7 +2,7 @@
 % Please edit documentation in R/bigtcr_func.R
 \name{get.kendalltau}
 \alias{get.kendalltau}
-\title{Kendall<U+2019>s tau Estimation}
+\title{Kendall's tau Estimation}
 \usage{
 get.kendalltau(v, w)
 }
@@ -12,7 +12,7 @@ get.kendalltau(v, w)
 \item{w}{vector of numeric values. Missing values will be ignored.}
 }
 \description{
-Estimate Kendall<U+2019>s tau association between two random variables
+Estimate Kendall's tau association between two random variables
 }
 \examples{
 
